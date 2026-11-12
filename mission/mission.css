@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    
+}
+
+h2 {
+    color: #0B73BA;
+    font-size: 20px;
+}
+
+hr {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.explanation {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.opening {
+    font-size: 20px;
+}
+
+.main {
+    text-align: justify;
+    list-style-type: decimal;
+    font-size: 20px;
+    margin-left: 26%;
+    margin-right: 26%;
+    margin-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
