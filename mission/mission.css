@@ -2,46 +2,57 @@ body {
     text-align: center;
 }
 
+div {
+    padding: 0%;
+    padding-bottom: 15px;
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+}
+
 h1 {
-    font-size: 50px;
-    margin-top: 50px;
-    margin-bottom: 0%;
-    
+    font-size: 35px;
+    margin-top: 40px;
+    margin-bottom: 2%;
+    font-family: serif;
 }
 
 h2 {
     color: #0B73BA;
-    font-size: 20px;
+    font-size: 15px;
+    margin-bottom: 0%;
+    font-weight: normal;
+    /* word-spacing: 6px; */
 }
 
 hr {
-    width: 50%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 6%;
+    border: none;
+    height: 0.5px;
+    background-color: black;
 }
 
 p {
     text-align: justify;
-    font-size: 20px;
-    margin-left: 25%;
-    margin-right: 25%;
+    font-size: 17px;
+    margin-left: 17%;
+    margin-right: 17%;
+    font-weight: normal;
+    margin-bottom: 25px;
 }
 
 .explanation {
-    font-size: 20px;
     font-style: italic;
 }
 
-.opening {
-    font-size: 20px;
-}
-
-.main {
+li {
     text-align: justify;
     list-style-type: decimal;
-    font-size: 20px;
-    margin-left: 26%;
-    margin-right: 26%;
+    margin-left: 19%;
+    margin-right: 19%;
     margin-bottom: 20px;
 }
 
@@ -49,5 +60,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 15%;
+    width: 16%;
+    margin-top: 50px;
 }
