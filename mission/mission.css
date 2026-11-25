@@ -6,13 +6,13 @@ div {
     padding: 0%;
     padding-bottom: 15px;
     border: 1px solid black;
-    width: 50%;
-    margin: auto;
+    width: 52%;
+    margin: 0 auto;
 }
 
 h1 {
-    font-size: 35px;
-    margin-top: 40px;
+    font-size: 32px;
+    margin-top: 45px;
     margin-bottom: 2%;
     font-family: serif;
 }
@@ -26,7 +26,7 @@ h2 {
 }
 
 hr {
-    width: 75%;
+    width: 67%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 6%;
@@ -36,10 +36,10 @@ hr {
 }
 
 p {
-    text-align: justify;
-    font-size: 17px;
+    text-align: left;
+    font-size: 16px;
     margin-left: 17%;
-    margin-right: 17%;
+    margin-right: 19%;
     font-weight: normal;
     margin-bottom: 25px;
 }
@@ -49,10 +49,11 @@ p {
 }
 
 li {
-    text-align: justify;
+    text-align: left;
+    font-size: 16px;
     list-style-type: decimal;
-    margin-left: 19%;
-    margin-right: 19%;
+    margin-left: 17%;
+    margin-right: 18%;
     margin-bottom: 20px;
 }
 
@@ -60,6 +61,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 16%;
-    margin-top: 50px;
+    width: 18%;
+    margin-top: 53px;
 }
